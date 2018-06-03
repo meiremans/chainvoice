@@ -30,3 +30,10 @@ balance-transfer/.DS_Store
 balance-transfer/node_modules/*
 balance-transfer/package-lock.json
 balance-transfer/fabric-client-kv-org*
+/chaincode/invoice/node/node_modules/
+.idea/jsLibraryMappings.xml
+Dockerfile
+balance-transfer/typescript/artifacts/
+chaincode/hyperledger/
+node_modules/
+package-lock.json
