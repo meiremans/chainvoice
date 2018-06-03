@@ -23,45 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32be1406-0192-426c-b426-1b446d676eb7" name="Default" comment="ss">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chaincode/abac/go/abac.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chaincode/abac/go/vendor/github.com/golang/protobuf/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chaincode/abac/go/vendor/github.com/golang/protobuf/proto/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chaincode/abac/go/vendor/github.com/golang/protobuf/proto/clone.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chaincode/abac/go/vendor/github.com/golang/protobuf/proto/decode.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chaincode/abac/go/vendor/github.com/golang/protobuf/proto/discard.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chaincode/abac/go/vendor/github.com/golang/protobuf/proto/encode.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chaincode/abac/go/vendor/github.com/golang/protobuf/proto/equal.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chaincode/abac/go/vendor/github.com/golang/protobuf/proto/extensions.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chaincode/abac/go/vendor/github.com/golang/protobuf/proto/lib.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chaincode/abac/go/vendor/github.com/golang/protobuf/proto/message_set.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chaincode/abac/go/vendor/github.com/golang/protobuf/proto/pointer_reflect.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chaincode/abac/go/vendor/github.com/golang/protobuf/proto/pointer_unsafe.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chaincode/abac/go/vendor/github.com/golang/protobuf/proto/properties.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chaincode/abac/go/vendor/github.com/golang/protobuf/proto/text.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chaincode/abac/go/vendor/github.com/golang/protobuf/proto/text_parser.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chaincode/abac/go/vendor/github.com/hyperledger/fabric/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chaincode/abac/go/vendor/github.com/hyperledger/fabric/common/attrmgr/attrmgr.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chaincode/abac/go/vendor/github.com/hyperledger/fabric/core/chaincode/lib/cid/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chaincode/abac/go/vendor/github.com/hyperledger/fabric/core/chaincode/lib/cid/cid.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chaincode/abac/go/vendor/github.com/hyperledger/fabric/core/chaincode/lib/cid/interfaces.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chaincode/abac/go/vendor/github.com/pkg/errors/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chaincode/abac/go/vendor/github.com/pkg/errors/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chaincode/abac/go/vendor/github.com/pkg/errors/appveyor.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chaincode/abac/go/vendor/github.com/pkg/errors/errors.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chaincode/abac/go/vendor/github.com/pkg/errors/stack.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chaincode/abac/go/vendor/vendor.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chaincode/chaincode_example02/go/chaincode_example02.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chaincode/chaincode_example02/node/chaincode_example02.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chaincode/chaincode_example02/node/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chaincode/marbles02/go/META-INF/statedb/couchdb/indexes/indexOwner.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chaincode/marbles02/go/marbles_chaincode.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chaincode/marbles02/node/META-INF/statedb/couchdb/indexes/indexOwner.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chaincode/marbles02/node/marbles_chaincode.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chaincode/marbles02/node/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chaincode/sacc/sacc.go" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/invoice/hfc-key-store/admin" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/invoice/hfc-key-store/e1cbd3c56c2cb93c56bac6e4f60e237fa907115195a5129a84ff2b0224d5fb25-priv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/invoice/hfc-key-store/e1cbd3c56c2cb93c56bac6e4f60e237fa907115195a5129a84ff2b0224d5fb25-pub" beforeDir="false" />
@@ -244,9 +206,6 @@
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
-      <path value="$PROJECT_DIR$/balance-transfer/artifacts/src/github.com/example_cc/node/package.json" />
-      <path value="$PROJECT_DIR$/balance-transfer/package.json" />
-      <path value="$PROJECT_DIR$/balance-transfer/typescript/package.json" />
       <path value="$PROJECT_DIR$/chaincode/fabcar/node/package.json" />
       <path value="$PROJECT_DIR$/chaincode/invoice/node/package.json" />
       <path value="$PROJECT_DIR$/fabcar/package.json" />
@@ -360,6 +319,9 @@
         <observation name="explicitSelect" value="38.0" />
         <observation name="typedSelect" value="41.0" />
       </dailyData>
+      <dailyData date="4-6-2018">
+        <observation name="cancelled" value="26.0" />
+      </dailyData>
     </factor>
     <factor id="completionType">
       <dailyData date="3-6-2018">
@@ -369,6 +331,9 @@
     <factor id="completionUsage">
       <dailyData date="3-6-2018">
         <observation name="count" value="794.0" />
+      </dailyData>
+      <dailyData date="4-6-2018">
+        <observation name="count" value="26.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:explicitProximity">
@@ -574,6 +539,19 @@
             </path>
             <path>
               <item name="chainvoice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chainvoice" type="462c0819:PsiDirectoryNode" />
+              <item name="chaincode" type="462c0819:PsiDirectoryNode" />
+              <item name="invoice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chainvoice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chainvoice" type="462c0819:PsiDirectoryNode" />
+              <item name="chaincode" type="462c0819:PsiDirectoryNode" />
+              <item name="invoice" type="462c0819:PsiDirectoryNode" />
+              <item name="node" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chainvoice" type="b2602c69:ProjectViewProjectNode" />
               <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
           </expand>
@@ -641,7 +619,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method v="2">
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1528059776938" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1528060242408" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -665,7 +643,7 @@
       </Profilers>
       <method v="2">
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1528059776934" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1528060242395" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -704,18 +682,25 @@
       <workItem from="1527867087953" duration="2093000" />
       <workItem from="1527946184042" duration="718000" />
       <workItem from="1527948402798" duration="609000" />
-      <workItem from="1528031030994" duration="24742000" />
+      <workItem from="1528031030994" duration="25018000" />
     </task>
+    <task id="LOCAL-00001" summary="removed some obsolete code">
+      <created>1528059895067</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1528059895068</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32095000" />
+    <option name="totallyTimeSpent" value="32371000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1294" height="1047" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959481" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24959481" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -731,7 +716,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49960256" visible="true" weight="0.32858709" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49960256" visible="true" weight="0.32858709" />
       <window_info anchor="bottom" id="Docker" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50039744" side_tool="true" weight="0.3253796" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
@@ -762,7 +747,8 @@
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="ss" />
-    <option name="LAST_COMMIT_MESSAGE" value="ss" />
+    <MESSAGE value="removed some obsolete code" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed some obsolete code" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/basic-network/.env">
